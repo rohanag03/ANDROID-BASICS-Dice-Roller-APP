@@ -7,8 +7,12 @@ Dice Roller is an android app where users can click a Button in the app to roll 
 
 The app opens on a blank screen with a button to roll the dice for the first time.
 
-![Opening Screen](https://github.com/rohanag03/Android-Basics-Dice-Roller-APP/blob/main/Screenshots/Screenshot_20230401_205314.png)
+<img src="https://github.com/rohanag03/Android-Basics-Dice-Roller-APP/blob/main/Screenshots/Screenshot_20230401_205314.png" width="160" height="320">
 
 Once you click on the button the dice appears with a random number.You can click on the button again for a new outcome.
 
-![Outcome](https://github.com/rohanag03/Android-Basics-Dice-Roller-APP/blob/main/Screenshots/Screenshot_20230401_205358.png)
+<img src="https://github.com/rohanag03/Android-Basics-Dice-Roller-APP/blob/main/Screenshots/Screenshot_20230401_205358.png" width="160" height="320">
+
+Final app looks like this:
+
+<img src="https://github.com/rohanag03/Android-Basics-Dice-Roller-APP/blob/main/Screenshots/gif.gif" width="160" height="320">
